@@ -1,5 +1,6 @@
 # TFM-Control-Gestual 
 En este repositorio se encuentran todos los archivos del proyecto TFM Desarrollo de interacción gestual para experiencias musicales inmersivas.
+Los vídeos de demostración están disponibles en el siguiente enlace: [Demos](https://drive.google.com/drive/folders/1fCTrRp0NSh8TfzQGhRM1pKWXQWAoGEnP?usp=sharing)
 
 # Puesta en marcha
 Para poder utilizar la aplicación es indispensable tener unas gafas Meta Quest 2 conectadas al ordenador con un cable usb 3.0 a usb tipo c. Además, también se necesita tener activado el control gestual de las gafas.
